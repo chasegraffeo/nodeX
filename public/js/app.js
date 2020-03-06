@@ -1,1 +1,1 @@
-alert('WWWOOOOOWWWW!!!!')
+console.log('WWWOOOOOWWWW!!!!')
